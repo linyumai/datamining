@@ -25,7 +25,7 @@ Random Forest      : RandomForestRegressor - OneHotEncoding.ipynb <br />
 # Instructions: 
 Data preprocessing - There are 2 files for data preprocessing, Submission - Data Cleaning.ipynb and Submission - Data Cleaning - CAT.ipynb
 <br />
-As the properties file is too large to upload, these files have to be run to save the preprocessed data in your local workspace. <br />
+As the properties file is too large to upload, these files have to be run to save the preprocessed data in your local workspace. (you would need to download the original properties_2017.csv file from kaggle<br />
 The files will generate the properties file into a csv format, where you can rename them at the bottom cell of the ipynb file.
 Depending on the model, it uses the non-CAT version unless you are trying to run the CatBoost. <br />
 For each model, the only changes that have to be done is to link the needed files paths in the first few cells of the ipynb file. <br />
